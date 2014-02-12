@@ -1,0 +1,4 @@
+SeaMiner
+========
+
+Information Retrieval System
